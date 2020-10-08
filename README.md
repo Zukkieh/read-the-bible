@@ -1,1 +1,1 @@
-Just a test of BibleAPI
+Just a test of BibleAPI with easy-peasy
